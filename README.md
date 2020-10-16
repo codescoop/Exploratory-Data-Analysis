@@ -1,5 +1,5 @@
 # Exploratory-Data-Analysis
-<space><space><space>This repository contains jupyter-notebook with detailed data analysis on various datasets.<space>
+This repository contains jupyter-notebook with detailed data analysis on various datasets.<space>
 <br>
 
 - [**IPL Analysis**](IPL_Analysis)
