@@ -14,7 +14,7 @@ This repository contains jupyter-notebook with detailed data analysis on various
 
 - [**Stock Market Analysis [ Time Series ]**](Stock_Market_Analysis)
 
->Exploring the stocks of NIFTY-50 data and along with the sectoral indices and visualising them to obtain important information. Time Series is a class of data science problems where the primary values of interest are a series of data points measured over a period of time. Here, I’ve done the analysis of stocks.
+>Exploring the ITC Limited stocks of NIFTY-50 data and along with the sectoral indices and visualising them to obtain important information. Time Series is a class of data science problems where the primary values of interest are a series of data points measured over a period of time. Here, I’ve done the analysis of stocks.
 ><table><tr><td style="padding:500px;"> <b>Links</b> </td> <td> <a href="https://github.com/yogesh7132/Exploratory-Data-Analysis/blob/master/Stock_Market_Analysis/Stock_Analysis.ipynb"> View Notebook</a> </td><td><a href="https://www.kaggle.com/rohanrao/nifty50-stock-market-data">Dataset [Kaggle]</a> </td></tr></table>
 
 ## Libraries used for EDA
